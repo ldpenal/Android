@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="splash">Esto es un Splash Screen</string>
+    <string name="title_activity_other">Other</string>
+    <string name="other">Ya habias inciado sesión</string>
+
+</resources>
